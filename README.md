@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Sou o Rafael Lopes Milanez tenho 27 anos e estou cursando FRONT-END pela EBAC (Escola Britânica de Artes Criativas e Tecnologia) 
+#### Sou o Rafael Lopes Milanez e tenho 27 anos. Estou cursando FRONT-END pela EBAC (Escola Britânica de Artes Criativas e Tecnologia) 
 
 - ✨ Tenho interesse em aprender/praticar HTML, CSS, mas principalmente JavaScript, React, TypeScript, Vue.js
 - 🌱 Cursando front-end desde Abril/22  
